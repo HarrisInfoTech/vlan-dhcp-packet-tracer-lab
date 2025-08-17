@@ -41,12 +41,4 @@ Each VLAN is configured with its own sub-interface and DHCP pool on the router.
 - Inter-VLAN communication
 - Network troubleshooting (ping, IP config)
 
----
 
-## 📄 Resume Bullet
-- Built and configured a simulated enterprise network with 4 VLANs and DHCP routing using Cisco Packet Tracer; demonstrated dynamic IP assignment and inter-VLAN communication.
-
----
-
-## 🔗 LinkedIn Post Idea
-> Just completed a Cisco Packet Tracer lab where I set up VLANs for IT, HR, Sales, and Marketing — each with their own subnet and DHCP configuration. Used router-on-a-stick to enable inter-VLAN communication. Great hands-on refresher in subnetting, DHCP, and Layer 2/3 switching!
