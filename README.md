@@ -30,7 +30,7 @@ Each VLAN is configured with its own sub-interface and DHCP pool on the router.
 ---
 
 ## 📷 Network Topology
-![Network Topology](diagramstopology.png)
+![Network Topology](diagrams/diagramstopolgy.png)
 
 ---
 
