@@ -31,7 +31,7 @@ Each VLAN is configured with its own sub-interface and DHCP pool on the router.
 
 ## 📷 *Screenshots*
 
-![Diagram Topolgy](./screenshots/topolgy.png)
+![Diagram Topolgy](./screenshots/topology.png)
 
 ---
 
